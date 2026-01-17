@@ -1,6 +1,7 @@
 requests
 psutil
 PyJWT
+pytz
 protobuf-decoder
 protobuf
 pyTelegramBotAPI
